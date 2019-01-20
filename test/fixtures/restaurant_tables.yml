@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  min_seats: 1
+  max_seats: 1
+  restaurant: one
+
+two:
+  name: MyString
+  min_seats: 1
+  max_seats: 1
+  restaurant: two

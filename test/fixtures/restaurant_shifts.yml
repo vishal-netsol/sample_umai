@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  restaurant: one
+  slot: 1
+  start_time: 2019-01-19 15:12:28
+  end_time: 2019-01-19 15:12:28
+
+two:
+  restaurant: two
+  slot: 1
+  start_time: 2019-01-19 15:12:28
+  end_time: 2019-01-19 15:12:28
