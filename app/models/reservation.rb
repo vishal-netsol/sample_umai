@@ -11,6 +11,7 @@ class Reservation < ApplicationRecord
   private
 
   def is_table_available
+    debugger
     unless (restaurant_table.min_seats..restaurant_table.max_seats).include? guest_count
       errors.add(:guest_count, "is out of range for this table")
     end
